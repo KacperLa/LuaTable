@@ -1,0 +1,2 @@
+# Ignore compiled binaries and temporary build artifacts
+bin/

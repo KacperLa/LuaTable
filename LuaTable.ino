@@ -1,8 +1,8 @@
 #include <Arduino.h>
 extern "C" {
-#include <lua.h>
-#include <lauxlib.h>
-#include <lualib.h>
+#include "lua-5.4.8/src/lua.h"
+#include "lua-5.4.8/src/lauxlib.h"
+#include "lua-5.4.8/src/lualib.h"
 }
 
 // Lua interpreter state
